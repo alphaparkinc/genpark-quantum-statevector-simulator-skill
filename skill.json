@@ -1,0 +1,13 @@
+{
+  "name": "genpark-quantum-statevector-simulator-skill",
+  "version": "1.0.0",
+  "description": "Universal n-qubit quantum statevector circuit simulator supporting arbitrary unitary gates, Hadamard, CNOT entanglement, Pauli Pauli-X/Y/Z, and multi-qubit measurement with 0-pip pure Python.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "quantum-computing",
+    "quantum-circuit",
+    "statevector-simulator",
+    "entanglement"
+  ]
+}
